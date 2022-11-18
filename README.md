@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manohar 
 - 👀 I’m interested in ui automation and backend automation.
-- 🌱 I’m currently learning cypress in typescripting
-- 💞️ I’m looking to collaborate on cypress e2e framework development
-- 📫 You can reach me - manohar.kamarushi@gmail.com
+- 🌱 I’m currently learning cypress using typescript.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me on ... manoharautomation22@gmail.com
 
 <!---
 manok584/manok584 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
