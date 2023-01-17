@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manohar 
 - 👀 I’m interested in ui and backend automation and performance testing.
-- 🌱 I’m currently learning cypress using typescript.
+- 🌱 You can find my repos created with sample projects on various automation tools.
 - 📫 You can reach me on 'manoharautomation22@gmail.com'
 
 <!---
