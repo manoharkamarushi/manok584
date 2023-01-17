@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manohar 
 - 👀 I’m interested in ui and backend automation and performance testing.
-- 🌱 You can find my repos created with sample projects on various automation tools.
+- 🌱 You can find my repos created with sample projects on various qa automation tools and frameworks.
 - 📫 You can reach me on 'manoharautomation22@gmail.com'
 
 <!---
